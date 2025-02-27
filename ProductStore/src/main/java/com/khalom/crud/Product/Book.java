@@ -16,6 +16,7 @@ public class Book {
     private String imageUrl;
 
     public Book() {
+
     }
 
     public Book(int id) {
